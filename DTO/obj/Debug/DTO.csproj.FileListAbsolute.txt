@@ -1,0 +1,36 @@
+C:\Users\tring\OneDrive\Desktop\QLShopQuanAo\DTO\bin\Debug\DTO.dll
+C:\Users\tring\OneDrive\Desktop\QLShopQuanAo\DTO\bin\Debug\DTO.pdb
+C:\Users\tring\OneDrive\Desktop\QLShopQuanAo\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\tring\OneDrive\Desktop\QLShopQuanAo\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\tring\OneDrive\Desktop\QLShopQuanAo\DTO\obj\Debug\DTO.dll
+C:\Users\tring\OneDrive\Desktop\QLShopQuanAo\DTO\obj\Debug\DTO.pdb
+C:\Users\iCare Center\Desktop\QLShopQuanAo\DTO\bin\Debug\DTO.dll
+C:\Users\iCare Center\Desktop\QLShopQuanAo\DTO\bin\Debug\DTO.pdb
+C:\Users\iCare Center\Desktop\QLShopQuanAo\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\iCare Center\Desktop\QLShopQuanAo\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\iCare Center\Desktop\QLShopQuanAo\DTO\obj\Debug\DTO.dll
+C:\Users\iCare Center\Desktop\QLShopQuanAo\DTO\obj\Debug\DTO.pdb
+C:\Users\tring\OneDrive\Desktop\test\QLShopQuanAo\DTO\bin\Debug\DTO.dll
+C:\Users\tring\OneDrive\Desktop\test\QLShopQuanAo\DTO\bin\Debug\DTO.pdb
+C:\Users\tring\OneDrive\Desktop\test\QLShopQuanAo\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\tring\OneDrive\Desktop\test\QLShopQuanAo\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\tring\OneDrive\Desktop\test\QLShopQuanAo\DTO\obj\Debug\DTO.dll
+C:\Users\tring\OneDrive\Desktop\test\QLShopQuanAo\DTO\obj\Debug\DTO.pdb
+C:\Users\tring\OneDrive\Desktop\QLShopQuanAo2\DTO\bin\Debug\DTO.dll
+C:\Users\tring\OneDrive\Desktop\QLShopQuanAo2\DTO\bin\Debug\DTO.pdb
+C:\Users\tring\OneDrive\Desktop\QLShopQuanAo2\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\tring\OneDrive\Desktop\QLShopQuanAo2\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\tring\OneDrive\Desktop\QLShopQuanAo2\DTO\obj\Debug\DTO.dll
+C:\Users\tring\OneDrive\Desktop\QLShopQuanAo2\DTO\obj\Debug\DTO.pdb
+C:\Users\iCare Center\Desktop\QLShopQuanAo2\DTO\bin\Debug\DTO.dll
+C:\Users\iCare Center\Desktop\QLShopQuanAo2\DTO\bin\Debug\DTO.pdb
+C:\Users\iCare Center\Desktop\QLShopQuanAo2\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\iCare Center\Desktop\QLShopQuanAo2\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\iCare Center\Desktop\QLShopQuanAo2\DTO\obj\Debug\DTO.dll
+C:\Users\iCare Center\Desktop\QLShopQuanAo2\DTO\obj\Debug\DTO.pdb
+C:\Users\iCare Center\Desktop\New folder\QLShopQuanAo2\DTO\bin\Debug\DTO.dll
+C:\Users\iCare Center\Desktop\New folder\QLShopQuanAo2\DTO\bin\Debug\DTO.pdb
+C:\Users\iCare Center\Desktop\New folder\QLShopQuanAo2\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\iCare Center\Desktop\New folder\QLShopQuanAo2\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\iCare Center\Desktop\New folder\QLShopQuanAo2\DTO\obj\Debug\DTO.dll
+C:\Users\iCare Center\Desktop\New folder\QLShopQuanAo2\DTO\obj\Debug\DTO.pdb

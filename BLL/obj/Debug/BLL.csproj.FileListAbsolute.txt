@@ -1,0 +1,118 @@
+C:\Users\tring\OneDrive\Desktop\QLShopQuanAo\BLL\bin\Debug\BLL.dll
+C:\Users\tring\OneDrive\Desktop\QLShopQuanAo\BLL\bin\Debug\BLL.pdb
+C:\Users\tring\OneDrive\Desktop\QLShopQuanAo\BLL\bin\Debug\DAL.dll
+C:\Users\tring\OneDrive\Desktop\QLShopQuanAo\BLL\bin\Debug\DTO.dll
+C:\Users\tring\OneDrive\Desktop\QLShopQuanAo\BLL\bin\Debug\DAL.pdb
+C:\Users\tring\OneDrive\Desktop\QLShopQuanAo\BLL\bin\Debug\DTO.pdb
+C:\Users\tring\OneDrive\Desktop\QLShopQuanAo\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\tring\OneDrive\Desktop\QLShopQuanAo\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\tring\OneDrive\Desktop\QLShopQuanAo\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\tring\OneDrive\Desktop\QLShopQuanAo\BLL\obj\Debug\BLL.dll
+C:\Users\tring\OneDrive\Desktop\QLShopQuanAo\BLL\obj\Debug\BLL.pdb
+C:\Users\iCare Center\Desktop\QLShopQuanAo\BLL\bin\Debug\BLL.dll
+C:\Users\iCare Center\Desktop\QLShopQuanAo\BLL\bin\Debug\BLL.pdb
+C:\Users\iCare Center\Desktop\QLShopQuanAo\BLL\bin\Debug\DAL.dll
+C:\Users\iCare Center\Desktop\QLShopQuanAo\BLL\bin\Debug\DTO.dll
+C:\Users\iCare Center\Desktop\QLShopQuanAo\BLL\bin\Debug\DAL.pdb
+C:\Users\iCare Center\Desktop\QLShopQuanAo\BLL\bin\Debug\DTO.pdb
+C:\Users\iCare Center\Desktop\QLShopQuanAo\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\iCare Center\Desktop\QLShopQuanAo\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\iCare Center\Desktop\QLShopQuanAo\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\iCare Center\Desktop\QLShopQuanAo\BLL\obj\Debug\BLL.dll
+C:\Users\iCare Center\Desktop\QLShopQuanAo\BLL\obj\Debug\BLL.pdb
+C:\Users\tring\OneDrive\Desktop\test\QLShopQuanAo\BLL\bin\Debug\BLL.dll
+C:\Users\tring\OneDrive\Desktop\test\QLShopQuanAo\BLL\bin\Debug\BLL.pdb
+C:\Users\tring\OneDrive\Desktop\test\QLShopQuanAo\BLL\bin\Debug\DAL.dll
+C:\Users\tring\OneDrive\Desktop\test\QLShopQuanAo\BLL\bin\Debug\DTO.dll
+C:\Users\tring\OneDrive\Desktop\test\QLShopQuanAo\BLL\bin\Debug\DAL.pdb
+C:\Users\tring\OneDrive\Desktop\test\QLShopQuanAo\BLL\bin\Debug\DTO.pdb
+C:\Users\tring\OneDrive\Desktop\test\QLShopQuanAo\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\tring\OneDrive\Desktop\test\QLShopQuanAo\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\tring\OneDrive\Desktop\test\QLShopQuanAo\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\tring\OneDrive\Desktop\test\QLShopQuanAo\BLL\obj\Debug\BLL.dll
+C:\Users\tring\OneDrive\Desktop\test\QLShopQuanAo\BLL\obj\Debug\BLL.pdb
+C:\Users\tring\OneDrive\Desktop\QLShopQuanAo2\BLL\bin\Debug\BLL.dll
+C:\Users\tring\OneDrive\Desktop\QLShopQuanAo2\BLL\bin\Debug\BLL.pdb
+C:\Users\tring\OneDrive\Desktop\QLShopQuanAo2\BLL\bin\Debug\DAL.dll
+C:\Users\tring\OneDrive\Desktop\QLShopQuanAo2\BLL\bin\Debug\DTO.dll
+C:\Users\tring\OneDrive\Desktop\QLShopQuanAo2\BLL\bin\Debug\DAL.pdb
+C:\Users\tring\OneDrive\Desktop\QLShopQuanAo2\BLL\bin\Debug\DTO.pdb
+C:\Users\tring\OneDrive\Desktop\QLShopQuanAo2\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\tring\OneDrive\Desktop\QLShopQuanAo2\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\tring\OneDrive\Desktop\QLShopQuanAo2\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\tring\OneDrive\Desktop\QLShopQuanAo2\BLL\obj\Debug\BLL.dll
+C:\Users\tring\OneDrive\Desktop\QLShopQuanAo2\BLL\obj\Debug\BLL.pdb
+C:\Users\iCare Center\Desktop\QLShopQuanAo2\BLL\bin\Debug\BLL.dll
+C:\Users\iCare Center\Desktop\QLShopQuanAo2\BLL\bin\Debug\BLL.pdb
+C:\Users\iCare Center\Desktop\QLShopQuanAo2\BLL\bin\Debug\DAL.dll
+C:\Users\iCare Center\Desktop\QLShopQuanAo2\BLL\bin\Debug\DTO.dll
+C:\Users\iCare Center\Desktop\QLShopQuanAo2\BLL\bin\Debug\DAL.pdb
+C:\Users\iCare Center\Desktop\QLShopQuanAo2\BLL\bin\Debug\DTO.pdb
+C:\Users\iCare Center\Desktop\QLShopQuanAo2\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\iCare Center\Desktop\QLShopQuanAo2\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\iCare Center\Desktop\QLShopQuanAo2\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\iCare Center\Desktop\QLShopQuanAo2\BLL\obj\Debug\BLL.dll
+C:\Users\iCare Center\Desktop\QLShopQuanAo2\BLL\obj\Debug\BLL.pdb
+C:\Users\iCare Center\Desktop\New folder\QLShopQuanAo2\BLL\bin\Debug\BLL.dll
+C:\Users\iCare Center\Desktop\New folder\QLShopQuanAo2\BLL\bin\Debug\BLL.pdb
+C:\Users\iCare Center\Desktop\New folder\QLShopQuanAo2\BLL\bin\Debug\DAL.dll
+C:\Users\iCare Center\Desktop\New folder\QLShopQuanAo2\BLL\bin\Debug\DTO.dll
+C:\Users\iCare Center\Desktop\New folder\QLShopQuanAo2\BLL\bin\Debug\DAL.pdb
+C:\Users\iCare Center\Desktop\New folder\QLShopQuanAo2\BLL\bin\Debug\DTO.pdb
+C:\Users\iCare Center\Desktop\New folder\QLShopQuanAo2\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\iCare Center\Desktop\New folder\QLShopQuanAo2\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\iCare Center\Desktop\New folder\QLShopQuanAo2\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\iCare Center\Desktop\New folder\QLShopQuanAo2\BLL\obj\Debug\BLL.dll
+C:\Users\iCare Center\Desktop\New folder\QLShopQuanAo2\BLL\obj\Debug\BLL.pdb
+C:\Users\tring\OneDrive\Desktop\test\QLShopQuanAo\BLL\bin\Debug\BLL.dll.config
+C:\Users\tring\OneDrive\Desktop\test\QLShopQuanAo\BLL\bin\Debug\Twilio.dll
+C:\Users\tring\OneDrive\Desktop\test\QLShopQuanAo\BLL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tring\OneDrive\Desktop\test\QLShopQuanAo\BLL\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tring\OneDrive\Desktop\test\QLShopQuanAo\BLL\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tring\OneDrive\Desktop\test\QLShopQuanAo\BLL\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\tring\OneDrive\Desktop\test\QLShopQuanAo\BLL\bin\Debug\DAL.dll.config
+C:\Users\tring\OneDrive\Desktop\test\QLShopQuanAo\BLL\bin\Debug\Twilio.xml
+C:\Users\tring\OneDrive\Desktop\test\QLShopQuanAo\BLL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\tring\OneDrive\Desktop\test\QLShopQuanAo\BLL\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\tring\OneDrive\Desktop\test\QLShopQuanAo\BLL\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\iCare Center\Desktop\QLShopQuanAo\BLL\bin\Debug\BLL.dll.config
+C:\Users\iCare Center\Desktop\QLShopQuanAo\BLL\bin\Debug\Twilio.dll
+C:\Users\iCare Center\Desktop\QLShopQuanAo\BLL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\iCare Center\Desktop\QLShopQuanAo\BLL\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\iCare Center\Desktop\QLShopQuanAo\BLL\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\iCare Center\Desktop\QLShopQuanAo\BLL\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\iCare Center\Desktop\QLShopQuanAo\BLL\bin\Debug\DAL.dll.config
+C:\Users\iCare Center\Desktop\QLShopQuanAo\BLL\bin\Debug\Twilio.xml
+C:\Users\iCare Center\Desktop\QLShopQuanAo\BLL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\iCare Center\Desktop\QLShopQuanAo\BLL\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\iCare Center\Desktop\QLShopQuanAo\BLL\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\tring\OneDrive\Desktop\test\QLShopQuanAo\BLL\bin\Debug\CloudinaryDotNet.dll
+C:\Users\tring\OneDrive\Desktop\test\QLShopQuanAo\BLL\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\tring\OneDrive\Desktop\test\QLShopQuanAo\BLL\bin\Debug\CloudinaryDotNet.xml
+C:\Users\tring\OneDrive\Desktop\test\QLShopQuanAo\BLL\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\iCare Center\Desktop\Vung\QLShopQuanAo\BLL\bin\Debug\BLL.dll.config
+C:\Users\iCare Center\Desktop\Vung\QLShopQuanAo\BLL\bin\Debug\BLL.dll
+C:\Users\iCare Center\Desktop\Vung\QLShopQuanAo\BLL\bin\Debug\BLL.pdb
+C:\Users\iCare Center\Desktop\Vung\QLShopQuanAo\BLL\bin\Debug\CloudinaryDotNet.dll
+C:\Users\iCare Center\Desktop\Vung\QLShopQuanAo\BLL\bin\Debug\DAL.dll
+C:\Users\iCare Center\Desktop\Vung\QLShopQuanAo\BLL\bin\Debug\DTO.dll
+C:\Users\iCare Center\Desktop\Vung\QLShopQuanAo\BLL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\iCare Center\Desktop\Vung\QLShopQuanAo\BLL\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\iCare Center\Desktop\Vung\QLShopQuanAo\BLL\bin\Debug\Twilio.dll
+C:\Users\iCare Center\Desktop\Vung\QLShopQuanAo\BLL\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\iCare Center\Desktop\Vung\QLShopQuanAo\BLL\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\iCare Center\Desktop\Vung\QLShopQuanAo\BLL\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\iCare Center\Desktop\Vung\QLShopQuanAo\BLL\bin\Debug\DAL.pdb
+C:\Users\iCare Center\Desktop\Vung\QLShopQuanAo\BLL\bin\Debug\DAL.dll.config
+C:\Users\iCare Center\Desktop\Vung\QLShopQuanAo\BLL\bin\Debug\DTO.pdb
+C:\Users\iCare Center\Desktop\Vung\QLShopQuanAo\BLL\bin\Debug\CloudinaryDotNet.xml
+C:\Users\iCare Center\Desktop\Vung\QLShopQuanAo\BLL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\iCare Center\Desktop\Vung\QLShopQuanAo\BLL\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\iCare Center\Desktop\Vung\QLShopQuanAo\BLL\bin\Debug\Twilio.xml
+C:\Users\iCare Center\Desktop\Vung\QLShopQuanAo\BLL\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\iCare Center\Desktop\Vung\QLShopQuanAo\BLL\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\iCare Center\Desktop\Vung\QLShopQuanAo\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\iCare Center\Desktop\Vung\QLShopQuanAo\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\iCare Center\Desktop\Vung\QLShopQuanAo\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\iCare Center\Desktop\Vung\QLShopQuanAo\BLL\obj\Debug\BLL.dll
+C:\Users\iCare Center\Desktop\Vung\QLShopQuanAo\BLL\obj\Debug\BLL.pdb

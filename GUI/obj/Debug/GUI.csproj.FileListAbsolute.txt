@@ -1,0 +1,258 @@
+C:\Users\tring\OneDrive\Desktop\QLShopQuanAo\GUI\bin\Debug\GUI.exe.config
+C:\Users\tring\OneDrive\Desktop\QLShopQuanAo\GUI\bin\Debug\GUI.exe
+C:\Users\tring\OneDrive\Desktop\QLShopQuanAo\GUI\bin\Debug\GUI.pdb
+C:\Users\tring\OneDrive\Desktop\QLShopQuanAo\GUI\bin\Debug\BLL.dll
+C:\Users\tring\OneDrive\Desktop\QLShopQuanAo\GUI\bin\Debug\DTO.dll
+C:\Users\tring\OneDrive\Desktop\QLShopQuanAo\GUI\bin\Debug\BLL.pdb
+C:\Users\tring\OneDrive\Desktop\QLShopQuanAo\GUI\bin\Debug\DTO.pdb
+C:\Users\tring\OneDrive\Desktop\QLShopQuanAo\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\tring\OneDrive\Desktop\QLShopQuanAo\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\tring\OneDrive\Desktop\QLShopQuanAo\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\tring\OneDrive\Desktop\QLShopQuanAo\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\tring\OneDrive\Desktop\QLShopQuanAo\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\tring\OneDrive\Desktop\QLShopQuanAo\GUI\obj\Debug\GUI.exe
+C:\Users\tring\OneDrive\Desktop\QLShopQuanAo\GUI\obj\Debug\GUI.pdb
+C:\Users\tring\OneDrive\Desktop\QLShopQuanAo\GUI\bin\Debug\DAL.dll
+C:\Users\tring\OneDrive\Desktop\QLShopQuanAo\GUI\bin\Debug\DAL.pdb
+C:\Users\tring\OneDrive\Desktop\QLShopQuanAo\GUI\obj\Debug\GUI.FAdmin.resources
+C:\Users\iCare Center\Desktop\QLShopQuanAo\GUI\bin\Debug\GUI.exe.config
+C:\Users\iCare Center\Desktop\QLShopQuanAo\GUI\bin\Debug\GUI.exe
+C:\Users\iCare Center\Desktop\QLShopQuanAo\GUI\bin\Debug\GUI.pdb
+C:\Users\iCare Center\Desktop\QLShopQuanAo\GUI\bin\Debug\BLL.dll
+C:\Users\iCare Center\Desktop\QLShopQuanAo\GUI\bin\Debug\DTO.dll
+C:\Users\iCare Center\Desktop\QLShopQuanAo\GUI\bin\Debug\DAL.dll
+C:\Users\iCare Center\Desktop\QLShopQuanAo\GUI\bin\Debug\BLL.pdb
+C:\Users\iCare Center\Desktop\QLShopQuanAo\GUI\bin\Debug\DTO.pdb
+C:\Users\iCare Center\Desktop\QLShopQuanAo\GUI\bin\Debug\DAL.pdb
+C:\Users\iCare Center\Desktop\QLShopQuanAo\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\iCare Center\Desktop\QLShopQuanAo\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\iCare Center\Desktop\QLShopQuanAo\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\iCare Center\Desktop\QLShopQuanAo\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\iCare Center\Desktop\QLShopQuanAo\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\iCare Center\Desktop\QLShopQuanAo\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\iCare Center\Desktop\QLShopQuanAo\GUI\obj\Debug\GUI.exe
+C:\Users\iCare Center\Desktop\QLShopQuanAo\GUI\obj\Debug\GUI.pdb
+C:\Users\iCare Center\Desktop\QLShopQuanAo\GUI\obj\Debug\GUI.Login.resources
+C:\Users\iCare Center\Desktop\QLShopQuanAo\GUI\obj\Debug\GUI.FNhanVien.resources
+C:\Users\tring\OneDrive\Desktop\test\QLShopQuanAo\GUI\bin\Debug\GUI.exe.config
+C:\Users\tring\OneDrive\Desktop\test\QLShopQuanAo\GUI\bin\Debug\GUI.exe
+C:\Users\tring\OneDrive\Desktop\test\QLShopQuanAo\GUI\bin\Debug\GUI.pdb
+C:\Users\tring\OneDrive\Desktop\test\QLShopQuanAo\GUI\bin\Debug\BLL.dll
+C:\Users\tring\OneDrive\Desktop\test\QLShopQuanAo\GUI\bin\Debug\DTO.dll
+C:\Users\tring\OneDrive\Desktop\test\QLShopQuanAo\GUI\bin\Debug\DAL.dll
+C:\Users\tring\OneDrive\Desktop\test\QLShopQuanAo\GUI\bin\Debug\BLL.pdb
+C:\Users\tring\OneDrive\Desktop\test\QLShopQuanAo\GUI\bin\Debug\DTO.pdb
+C:\Users\tring\OneDrive\Desktop\test\QLShopQuanAo\GUI\bin\Debug\DAL.pdb
+C:\Users\tring\OneDrive\Desktop\test\QLShopQuanAo\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\tring\OneDrive\Desktop\test\QLShopQuanAo\GUI\obj\Debug\GUI.FNhanVien.resources
+C:\Users\tring\OneDrive\Desktop\test\QLShopQuanAo\GUI\obj\Debug\GUI.Login.resources
+C:\Users\tring\OneDrive\Desktop\test\QLShopQuanAo\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\tring\OneDrive\Desktop\test\QLShopQuanAo\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\tring\OneDrive\Desktop\test\QLShopQuanAo\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\tring\OneDrive\Desktop\test\QLShopQuanAo\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\tring\OneDrive\Desktop\test\QLShopQuanAo\GUI\obj\Debug\GUI.exe
+C:\Users\tring\OneDrive\Desktop\test\QLShopQuanAo\GUI\obj\Debug\GUI.pdb
+C:\Users\iCare Center\Desktop\QLShopQuanAo\GUI\obj\Debug\GUI.FNVDoanhThu.resources
+C:\Users\iCare Center\Desktop\QLShopQuanAo\GUI\obj\Debug\GUI.FNVKhachHang.resources
+C:\Users\iCare Center\Desktop\QLShopQuanAo\GUI\obj\Debug\GUI.FNVNhanVien.resources
+C:\Users\iCare Center\Desktop\QLShopQuanAo\GUI\obj\Debug\GUI.LoginForget.resources
+C:\Users\iCare Center\Desktop\QLShopQuanAo\GUI\obj\Debug\GUI.PassChange.resources
+C:\Users\tring\OneDrive\Desktop\test\QLShopQuanAo\GUI\obj\Debug\GUI.FNVDoanhThu.resources
+C:\Users\tring\OneDrive\Desktop\test\QLShopQuanAo\GUI\obj\Debug\GUI.FNVKhachHang.resources
+C:\Users\tring\OneDrive\Desktop\test\QLShopQuanAo\GUI\obj\Debug\GUI.FNVNhanVien.resources
+C:\Users\tring\OneDrive\Desktop\test\QLShopQuanAo\GUI\obj\Debug\GUI.LoginForget.resources
+C:\Users\tring\OneDrive\Desktop\test\QLShopQuanAo\GUI\obj\Debug\GUI.PassChange.resources
+C:\Users\tring\OneDrive\Desktop\QLShopQuanAo\GUI\bin\Debug\Guna.UI2.dll
+C:\Users\tring\OneDrive\Desktop\QLShopQuanAo\GUI\obj\Debug\GUI.FNhanVien.resources
+C:\Users\tring\OneDrive\Desktop\QLShopQuanAo\GUI\obj\Debug\GUI.FNhanVienHoaDon.resources
+C:\Users\tring\OneDrive\Desktop\QLShopQuanAo\GUI\obj\Debug\GUI.FNhanVienSanPham.resources
+C:\Users\tring\OneDrive\Desktop\QLShopQuanAo\GUI\obj\Debug\GUI.FNhanVienTacVu.resources
+C:\Users\tring\OneDrive\Desktop\QLShopQuanAo\GUI\obj\Debug\GUI.FNVDoanhThu.resources
+C:\Users\tring\OneDrive\Desktop\QLShopQuanAo\GUI\obj\Debug\GUI.FNVKhachHang.resources
+C:\Users\tring\OneDrive\Desktop\QLShopQuanAo\GUI\obj\Debug\GUI.FNVNhanVien.resources
+C:\Users\tring\OneDrive\Desktop\QLShopQuanAo\GUI\obj\Debug\GUI.Login.resources
+C:\Users\tring\OneDrive\Desktop\QLShopQuanAo\GUI\obj\Debug\GUI.LoginForget.resources
+C:\Users\tring\OneDrive\Desktop\QLShopQuanAo\GUI\obj\Debug\GUI.PassChange.resources
+C:\Users\tring\OneDrive\Desktop\QLShopQuanAo2\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\tring\OneDrive\Desktop\QLShopQuanAo2\GUI\obj\Debug\GUI.FChiTietHoaDon.resources
+C:\Users\tring\OneDrive\Desktop\QLShopQuanAo2\GUI\obj\Debug\GUI.FAdmin.resources
+C:\Users\tring\OneDrive\Desktop\QLShopQuanAo2\GUI\obj\Debug\GUI.FNhanVien.resources
+C:\Users\tring\OneDrive\Desktop\QLShopQuanAo2\GUI\obj\Debug\GUI.FNVDoanhThu.resources
+C:\Users\tring\OneDrive\Desktop\QLShopQuanAo2\GUI\obj\Debug\GUI.FNVKhachHang.resources
+C:\Users\tring\OneDrive\Desktop\QLShopQuanAo2\GUI\obj\Debug\GUI.FNVNhanVien.resources
+C:\Users\tring\OneDrive\Desktop\QLShopQuanAo2\GUI\obj\Debug\GUI.Login.resources
+C:\Users\tring\OneDrive\Desktop\QLShopQuanAo2\GUI\obj\Debug\GUI.LoginForget.resources
+C:\Users\tring\OneDrive\Desktop\QLShopQuanAo2\GUI\obj\Debug\GUI.PassChange.resources
+C:\Users\tring\OneDrive\Desktop\QLShopQuanAo2\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\tring\OneDrive\Desktop\QLShopQuanAo2\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\tring\OneDrive\Desktop\QLShopQuanAo2\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\tring\OneDrive\Desktop\QLShopQuanAo2\GUI\obj\Debug\GUI.exe
+C:\Users\tring\OneDrive\Desktop\QLShopQuanAo2\GUI\obj\Debug\GUI.pdb
+C:\Users\tring\OneDrive\Desktop\QLShopQuanAo2\GUI\bin\Debug\GUI.exe.config
+C:\Users\tring\OneDrive\Desktop\QLShopQuanAo2\GUI\bin\Debug\GUI.exe
+C:\Users\tring\OneDrive\Desktop\QLShopQuanAo2\GUI\bin\Debug\GUI.pdb
+C:\Users\tring\OneDrive\Desktop\QLShopQuanAo2\GUI\bin\Debug\BLL.dll
+C:\Users\tring\OneDrive\Desktop\QLShopQuanAo2\GUI\bin\Debug\DTO.dll
+C:\Users\tring\OneDrive\Desktop\QLShopQuanAo2\GUI\bin\Debug\Guna.UI2.dll
+C:\Users\tring\OneDrive\Desktop\QLShopQuanAo2\GUI\bin\Debug\DAL.dll
+C:\Users\tring\OneDrive\Desktop\QLShopQuanAo2\GUI\bin\Debug\BLL.pdb
+C:\Users\tring\OneDrive\Desktop\QLShopQuanAo2\GUI\bin\Debug\DTO.pdb
+C:\Users\tring\OneDrive\Desktop\QLShopQuanAo2\GUI\bin\Debug\DAL.pdb
+C:\Users\tring\OneDrive\Desktop\QLShopQuanAo2\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\tring\OneDrive\Desktop\QLShopQuanAo2\GUI\obj\Debug\GUI.FNVHoaDon.resources
+C:\Users\tring\OneDrive\Desktop\QLShopQuanAo2\GUI\obj\Debug\GUI.FNVSanPham.resources
+C:\Users\tring\OneDrive\Desktop\QLShopQuanAo2\GUI\obj\Debug\GUI.FNVTacVu.resources
+C:\Users\iCare Center\Desktop\QLShopQuanAo2\GUI\bin\Debug\GUI.exe.config
+C:\Users\iCare Center\Desktop\QLShopQuanAo2\GUI\bin\Debug\GUI.exe
+C:\Users\iCare Center\Desktop\QLShopQuanAo2\GUI\bin\Debug\GUI.pdb
+C:\Users\iCare Center\Desktop\QLShopQuanAo2\GUI\bin\Debug\BLL.dll
+C:\Users\iCare Center\Desktop\QLShopQuanAo2\GUI\bin\Debug\DTO.dll
+C:\Users\iCare Center\Desktop\QLShopQuanAo2\GUI\bin\Debug\Guna.UI2.dll
+C:\Users\iCare Center\Desktop\QLShopQuanAo2\GUI\bin\Debug\DAL.dll
+C:\Users\iCare Center\Desktop\QLShopQuanAo2\GUI\bin\Debug\BLL.pdb
+C:\Users\iCare Center\Desktop\QLShopQuanAo2\GUI\bin\Debug\DTO.pdb
+C:\Users\iCare Center\Desktop\QLShopQuanAo2\GUI\bin\Debug\DAL.pdb
+C:\Users\iCare Center\Desktop\QLShopQuanAo2\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\iCare Center\Desktop\QLShopQuanAo2\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\iCare Center\Desktop\QLShopQuanAo2\GUI\obj\Debug\GUI.FAdmin.resources
+C:\Users\iCare Center\Desktop\QLShopQuanAo2\GUI\obj\Debug\GUI.FNhanVien.resources
+C:\Users\iCare Center\Desktop\QLShopQuanAo2\GUI\obj\Debug\GUI.FNVHoaDon.resources
+C:\Users\iCare Center\Desktop\QLShopQuanAo2\GUI\obj\Debug\GUI.FNVSanPham.resources
+C:\Users\iCare Center\Desktop\QLShopQuanAo2\GUI\obj\Debug\GUI.FNVDoanhThu.resources
+C:\Users\iCare Center\Desktop\QLShopQuanAo2\GUI\obj\Debug\GUI.FNVKhachHang.resources
+C:\Users\iCare Center\Desktop\QLShopQuanAo2\GUI\obj\Debug\GUI.FNVNhanVien.resources
+C:\Users\iCare Center\Desktop\QLShopQuanAo2\GUI\obj\Debug\GUI.Login.resources
+C:\Users\iCare Center\Desktop\QLShopQuanAo2\GUI\obj\Debug\GUI.LoginForget.resources
+C:\Users\iCare Center\Desktop\QLShopQuanAo2\GUI\obj\Debug\GUI.PassChange.resources
+C:\Users\iCare Center\Desktop\QLShopQuanAo2\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\iCare Center\Desktop\QLShopQuanAo2\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\iCare Center\Desktop\QLShopQuanAo2\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\iCare Center\Desktop\QLShopQuanAo2\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\iCare Center\Desktop\QLShopQuanAo2\GUI\obj\Debug\GUI.exe
+C:\Users\iCare Center\Desktop\QLShopQuanAo2\GUI\obj\Debug\GUI.pdb
+C:\Users\iCare Center\Desktop\New folder\QLShopQuanAo2\GUI\bin\Debug\GUI.exe.config
+C:\Users\iCare Center\Desktop\New folder\QLShopQuanAo2\GUI\bin\Debug\GUI.exe
+C:\Users\iCare Center\Desktop\New folder\QLShopQuanAo2\GUI\bin\Debug\GUI.pdb
+C:\Users\iCare Center\Desktop\New folder\QLShopQuanAo2\GUI\bin\Debug\BLL.dll
+C:\Users\iCare Center\Desktop\New folder\QLShopQuanAo2\GUI\bin\Debug\DTO.dll
+C:\Users\iCare Center\Desktop\New folder\QLShopQuanAo2\GUI\bin\Debug\Guna.UI2.dll
+C:\Users\iCare Center\Desktop\New folder\QLShopQuanAo2\GUI\bin\Debug\DAL.dll
+C:\Users\iCare Center\Desktop\New folder\QLShopQuanAo2\GUI\bin\Debug\BLL.pdb
+C:\Users\iCare Center\Desktop\New folder\QLShopQuanAo2\GUI\bin\Debug\DTO.pdb
+C:\Users\iCare Center\Desktop\New folder\QLShopQuanAo2\GUI\bin\Debug\DAL.pdb
+C:\Users\iCare Center\Desktop\New folder\QLShopQuanAo2\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\iCare Center\Desktop\New folder\QLShopQuanAo2\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\iCare Center\Desktop\New folder\QLShopQuanAo2\GUI\obj\Debug\GUI.FAdmin.resources
+C:\Users\iCare Center\Desktop\New folder\QLShopQuanAo2\GUI\obj\Debug\GUI.FNhanVien.resources
+C:\Users\iCare Center\Desktop\New folder\QLShopQuanAo2\GUI\obj\Debug\GUI.FNVHoaDon.resources
+C:\Users\iCare Center\Desktop\New folder\QLShopQuanAo2\GUI\obj\Debug\GUI.FNVSanPham.resources
+C:\Users\iCare Center\Desktop\New folder\QLShopQuanAo2\GUI\obj\Debug\GUI.FNVDoanhThu.resources
+C:\Users\iCare Center\Desktop\New folder\QLShopQuanAo2\GUI\obj\Debug\GUI.FNVKhachHang.resources
+C:\Users\iCare Center\Desktop\New folder\QLShopQuanAo2\GUI\obj\Debug\GUI.FNVNhanVien.resources
+C:\Users\iCare Center\Desktop\New folder\QLShopQuanAo2\GUI\obj\Debug\GUI.Login.resources
+C:\Users\iCare Center\Desktop\New folder\QLShopQuanAo2\GUI\obj\Debug\GUI.LoginForget.resources
+C:\Users\iCare Center\Desktop\New folder\QLShopQuanAo2\GUI\obj\Debug\GUI.PassChange.resources
+C:\Users\iCare Center\Desktop\New folder\QLShopQuanAo2\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\iCare Center\Desktop\New folder\QLShopQuanAo2\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\iCare Center\Desktop\New folder\QLShopQuanAo2\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\iCare Center\Desktop\New folder\QLShopQuanAo2\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\iCare Center\Desktop\New folder\QLShopQuanAo2\GUI\obj\Debug\GUI.exe
+C:\Users\iCare Center\Desktop\New folder\QLShopQuanAo2\GUI\obj\Debug\GUI.pdb
+C:\Users\iCare Center\Desktop\New folder\QLShopQuanAo2\GUI\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\iCare Center\Desktop\New folder\QLShopQuanAo2\GUI\bin\Debug\itextsharp.dll
+C:\Users\iCare Center\Desktop\New folder\QLShopQuanAo2\GUI\bin\Debug\itextsharp.xml
+C:\Users\tring\OneDrive\Desktop\test\QLShopQuanAo\GUI\bin\Debug\itextsharp.xml
+C:\Users\tring\OneDrive\Desktop\test\QLShopQuanAo\GUI\obj\Debug\GUI.FNVHoaDon.resources
+C:\Users\tring\OneDrive\Desktop\test\QLShopQuanAo\GUI\obj\Debug\GUI.FNVSanPham.resources
+C:\Users\tring\OneDrive\Desktop\test\QLShopQuanAo\GUI\obj\Debug\GUI.Forms.FQLCuaHang.resources
+C:\Users\tring\OneDrive\Desktop\test\QLShopQuanAo\GUI\obj\Debug\GUI.Forms.FQLDoanhThu.resources
+C:\Users\tring\OneDrive\Desktop\test\QLShopQuanAo\GUI\obj\Debug\GUI.Forms.FQLHoaDon.resources
+C:\Users\tring\OneDrive\Desktop\test\QLShopQuanAo\GUI\obj\Debug\GUI.Forms.FQLKhachHang.resources
+C:\Users\tring\OneDrive\Desktop\test\QLShopQuanAo\GUI\obj\Debug\GUI.Forms.FQLPhieuNhap.resources
+C:\Users\tring\OneDrive\Desktop\test\QLShopQuanAo\GUI\obj\Debug\GUI.Forms.FQLSanPham.resources
+C:\Users\tring\OneDrive\Desktop\test\QLShopQuanAo\GUI\obj\Debug\GUI.FAdminMenu.resources
+C:\Users\tring\OneDrive\Desktop\test\QLShopQuanAo\GUI\bin\Debug\Twilio.dll
+C:\Users\tring\OneDrive\Desktop\test\QLShopQuanAo\GUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tring\OneDrive\Desktop\test\QLShopQuanAo\GUI\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tring\OneDrive\Desktop\test\QLShopQuanAo\GUI\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tring\OneDrive\Desktop\test\QLShopQuanAo\GUI\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\tring\OneDrive\Desktop\test\QLShopQuanAo\GUI\bin\Debug\BLL.dll.config
+C:\Users\tring\OneDrive\Desktop\test\QLShopQuanAo\GUI\bin\Debug\DAL.dll.config
+C:\Users\tring\OneDrive\Desktop\test\QLShopQuanAo\GUI\bin\Debug\Twilio.xml
+C:\Users\tring\OneDrive\Desktop\test\QLShopQuanAo\GUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\tring\OneDrive\Desktop\test\QLShopQuanAo\GUI\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\tring\OneDrive\Desktop\test\QLShopQuanAo\GUI\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\iCare Center\Desktop\QLShopQuanAo\GUI\bin\Debug\Twilio.dll
+C:\Users\iCare Center\Desktop\QLShopQuanAo\GUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\iCare Center\Desktop\QLShopQuanAo\GUI\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\iCare Center\Desktop\QLShopQuanAo\GUI\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\iCare Center\Desktop\QLShopQuanAo\GUI\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\iCare Center\Desktop\QLShopQuanAo\GUI\bin\Debug\BLL.dll.config
+C:\Users\iCare Center\Desktop\QLShopQuanAo\GUI\bin\Debug\itextsharp.xml
+C:\Users\iCare Center\Desktop\QLShopQuanAo\GUI\bin\Debug\DAL.dll.config
+C:\Users\iCare Center\Desktop\QLShopQuanAo\GUI\bin\Debug\Twilio.xml
+C:\Users\iCare Center\Desktop\QLShopQuanAo\GUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\iCare Center\Desktop\QLShopQuanAo\GUI\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\iCare Center\Desktop\QLShopQuanAo\GUI\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\iCare Center\Desktop\QLShopQuanAo\GUI\obj\Debug\GUI.FAdminMenu.resources
+C:\Users\iCare Center\Desktop\QLShopQuanAo\GUI\obj\Debug\GUI.FNVHoaDon.resources
+C:\Users\iCare Center\Desktop\QLShopQuanAo\GUI\obj\Debug\GUI.FNVSanPham.resources
+C:\Users\iCare Center\Desktop\QLShopQuanAo\GUI\obj\Debug\GUI.Forms.FQLCuaHang.resources
+C:\Users\iCare Center\Desktop\QLShopQuanAo\GUI\obj\Debug\GUI.Forms.FQLDoanhThu.resources
+C:\Users\iCare Center\Desktop\QLShopQuanAo\GUI\obj\Debug\GUI.Forms.FQLHoaDon.resources
+C:\Users\iCare Center\Desktop\QLShopQuanAo\GUI\obj\Debug\GUI.Forms.FQLKhachHang.resources
+C:\Users\iCare Center\Desktop\QLShopQuanAo\GUI\obj\Debug\GUI.Forms.FQLPhieuNhap.resources
+C:\Users\iCare Center\Desktop\QLShopQuanAo\GUI\obj\Debug\GUI.Forms.FQLSanPham.resources
+C:\Users\tring\OneDrive\Desktop\test\QLShopQuanAo\GUI\bin\Debug\CloudinaryDotNet.dll
+C:\Users\tring\OneDrive\Desktop\test\QLShopQuanAo\GUI\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\tring\OneDrive\Desktop\test\QLShopQuanAo\GUI\bin\Debug\CloudinaryDotNet.xml
+C:\Users\tring\OneDrive\Desktop\test\QLShopQuanAo\GUI\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\iCare Center\Desktop\Vung\QLShopQuanAo\GUI\bin\Debug\GUI.exe.config
+C:\Users\iCare Center\Desktop\Vung\QLShopQuanAo\GUI\bin\Debug\GUI.exe
+C:\Users\iCare Center\Desktop\Vung\QLShopQuanAo\GUI\bin\Debug\GUI.pdb
+C:\Users\iCare Center\Desktop\Vung\QLShopQuanAo\GUI\bin\Debug\BLL.dll
+C:\Users\iCare Center\Desktop\Vung\QLShopQuanAo\GUI\bin\Debug\CloudinaryDotNet.dll
+C:\Users\iCare Center\Desktop\Vung\QLShopQuanAo\GUI\bin\Debug\DTO.dll
+C:\Users\iCare Center\Desktop\Vung\QLShopQuanAo\GUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\iCare Center\Desktop\Vung\QLShopQuanAo\GUI\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\iCare Center\Desktop\Vung\QLShopQuanAo\GUI\bin\Debug\DAL.dll
+C:\Users\iCare Center\Desktop\Vung\QLShopQuanAo\GUI\bin\Debug\Twilio.dll
+C:\Users\iCare Center\Desktop\Vung\QLShopQuanAo\GUI\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\iCare Center\Desktop\Vung\QLShopQuanAo\GUI\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\iCare Center\Desktop\Vung\QLShopQuanAo\GUI\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\iCare Center\Desktop\Vung\QLShopQuanAo\GUI\bin\Debug\BLL.pdb
+C:\Users\iCare Center\Desktop\Vung\QLShopQuanAo\GUI\bin\Debug\BLL.dll.config
+C:\Users\iCare Center\Desktop\Vung\QLShopQuanAo\GUI\bin\Debug\DTO.pdb
+C:\Users\iCare Center\Desktop\Vung\QLShopQuanAo\GUI\bin\Debug\CloudinaryDotNet.xml
+C:\Users\iCare Center\Desktop\Vung\QLShopQuanAo\GUI\bin\Debug\itextsharp.xml
+C:\Users\iCare Center\Desktop\Vung\QLShopQuanAo\GUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\iCare Center\Desktop\Vung\QLShopQuanAo\GUI\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\iCare Center\Desktop\Vung\QLShopQuanAo\GUI\bin\Debug\DAL.pdb
+C:\Users\iCare Center\Desktop\Vung\QLShopQuanAo\GUI\bin\Debug\DAL.dll.config
+C:\Users\iCare Center\Desktop\Vung\QLShopQuanAo\GUI\bin\Debug\Twilio.xml
+C:\Users\iCare Center\Desktop\Vung\QLShopQuanAo\GUI\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\iCare Center\Desktop\Vung\QLShopQuanAo\GUI\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\iCare Center\Desktop\Vung\QLShopQuanAo\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\iCare Center\Desktop\Vung\QLShopQuanAo\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\iCare Center\Desktop\Vung\QLShopQuanAo\GUI\obj\Debug\GUI.FAdminMenu.resources
+C:\Users\iCare Center\Desktop\Vung\QLShopQuanAo\GUI\obj\Debug\GUI.FNhanVien.resources
+C:\Users\iCare Center\Desktop\Vung\QLShopQuanAo\GUI\obj\Debug\GUI.FNVHoaDon.resources
+C:\Users\iCare Center\Desktop\Vung\QLShopQuanAo\GUI\obj\Debug\GUI.FNVSanPham.resources
+C:\Users\iCare Center\Desktop\Vung\QLShopQuanAo\GUI\obj\Debug\GUI.FNVDoanhThu.resources
+C:\Users\iCare Center\Desktop\Vung\QLShopQuanAo\GUI\obj\Debug\GUI.FNVKhachHang.resources
+C:\Users\iCare Center\Desktop\Vung\QLShopQuanAo\GUI\obj\Debug\GUI.FNVNhanVien.resources
+C:\Users\iCare Center\Desktop\Vung\QLShopQuanAo\GUI\obj\Debug\GUI.Forms.FQLCuaHang.resources
+C:\Users\iCare Center\Desktop\Vung\QLShopQuanAo\GUI\obj\Debug\GUI.Forms.FQLDoanhThu.resources
+C:\Users\iCare Center\Desktop\Vung\QLShopQuanAo\GUI\obj\Debug\GUI.Forms.FQLHoaDon.resources
+C:\Users\iCare Center\Desktop\Vung\QLShopQuanAo\GUI\obj\Debug\GUI.Forms.FQLKhachHang.resources
+C:\Users\iCare Center\Desktop\Vung\QLShopQuanAo\GUI\obj\Debug\GUI.Forms.FQLPhieuNhap.resources
+C:\Users\iCare Center\Desktop\Vung\QLShopQuanAo\GUI\obj\Debug\GUI.Forms.FQLSanPham.resources
+C:\Users\iCare Center\Desktop\Vung\QLShopQuanAo\GUI\obj\Debug\GUI.Login.resources
+C:\Users\iCare Center\Desktop\Vung\QLShopQuanAo\GUI\obj\Debug\GUI.LoginForget.resources
+C:\Users\iCare Center\Desktop\Vung\QLShopQuanAo\GUI\obj\Debug\GUI.PassChange.resources
+C:\Users\iCare Center\Desktop\Vung\QLShopQuanAo\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\iCare Center\Desktop\Vung\QLShopQuanAo\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\iCare Center\Desktop\Vung\QLShopQuanAo\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\iCare Center\Desktop\Vung\QLShopQuanAo\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\iCare Center\Desktop\Vung\QLShopQuanAo\GUI\obj\Debug\GUI.exe
+C:\Users\iCare Center\Desktop\Vung\QLShopQuanAo\GUI\obj\Debug\GUI.pdb
